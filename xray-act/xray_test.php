@@ -205,7 +205,6 @@ debug($node);
 
 print $node->field_act_opening_pc_date['und'][0]['value'];
 
-echo '<br>';
 
 /* ok */
 /*
